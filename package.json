@@ -1,0 +1,18 @@
+{
+  "name": "vivia-front-matter",
+  "version": "0.0.1",
+  "description": "vivia front-matter",
+  "author": "Saurlax <saurlax@qq.com>",
+  "keywords": [
+    "vivia",
+    "front-matter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saurlax/vivia-front-matter.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  }
+}
