@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/saurlax/vivia-front-matter.git"
   },
+  "files": [
+    "index.js"
+  ],
   "license": "MIT",
   "dependencies": {
     "gray-matter": "^4.0.3"
